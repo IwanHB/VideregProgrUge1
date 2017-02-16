@@ -1,5 +1,0 @@
-C:\Users\Iwan\Programmering\cph kurser\Videregående Programmering\Uge 1\Uge1\Uge1\bin\Debug\Uge1.exe
-C:\Users\Iwan\Programmering\cph kurser\Videregående Programmering\Uge 1\Uge1\Uge1\bin\Debug\Uge1.pdb
-C:\Users\Iwan\Programmering\cph kurser\Videregående Programmering\Uge 1\Uge1\Uge1\obj\x86\Debug\Uge1.exe
-C:\Users\Iwan\Programmering\cph kurser\Videregående Programmering\Uge 1\Uge1\Uge1\obj\x86\Debug\Uge1.pdb
-C:\Users\Iwan\Programmering\cph kurser\Videregående Programmering\Uge 1\Uge1\Uge1\obj\x86\Debug\Uge1.csprojResolveAssemblyReference.cache
